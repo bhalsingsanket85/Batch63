@@ -1,0 +1,2 @@
+html is a hypertext markup language.
+java is aopen source language.
